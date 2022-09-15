@@ -1,0 +1,7 @@
+python --version
+py -m pip install django
+ py -m django --version
+django-admin startproject firstproject
+django-admin
+cd firstproject
+py manage.py runserver
